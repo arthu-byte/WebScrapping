@@ -101,16 +101,7 @@ Soumission
 ## 👨‍💻 Integrantes
 
 - Arthur Felipe Rodrigues
-- Arthur Cordeiro da Silva
-- Felipe Henrique Ribeiro dos Santos
-- Igor França Cândido
-- Gabriel Francisco Alves da Silva
 
----
-
-## 👨‍🏫 Professor
-
-Mauro Rodrigues Alves Nogueira
 
 ---
 
